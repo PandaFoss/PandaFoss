@@ -14,6 +14,22 @@ ___
 
 ### Contactame
 
+<a href="https://github.com/PandaFoss">
+  <img hspace="10" vspace="10" align="center" src="assets/github.png"></img>
+</a>
+<a href="https://gitlab.com/PandaFoss">
+  <img hspace="10" vspace="10" align="center" src="assets/gitlab.png" /></img>
+</a>
+<a href="https://twitter.com/PandaFoss">
+  <img hspace="10" vspace="10" align="center" src="assets/twitter.png" /></img>
+</a>
+<a href="https://pandafoss.github.io">
+  <img hspace="10" vspace="10" align="center" src="assets/web.png" /></img>
+</a>
+<a href="mailto:maxi.fg13@gmail.com">
+  <img hspace="10" vspace="10" align="center" src="assets/mail.png" /></img>
+</a>
+
 ___
 
 ### Si te gusta mi trabajo, apóyame!
