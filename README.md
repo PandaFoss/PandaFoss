@@ -19,16 +19,22 @@ ___
   <img hspace="10" vspace="10" align="center" src="assets/github.png"></img>
 </a>
 <a href="https://gitlab.com/PandaFoss">
-  <img hspace="10" vspace="10" align="center" src="assets/gitlab.png" /></img>
+  <img hspace="10" vspace="10" align="center" src="assets/gitlab.png"></img>
+</a>
+<a href="https://www.instagram.com/pandafossblog/">
+  <img hspace="10" vspace="10" align="center" src="assets/instagram.png"></img>
+</a>
+<a href="https://t.me/ElBlogDelPanda">
+  <img hspace="10" vspace="10" align="center" src="assets/telegram.png"></img>
 </a>
 <a href="https://twitter.com/PandaFoss">
-  <img hspace="10" vspace="10" align="center" src="assets/twitter.png" /></img>
+  <img hspace="10" vspace="10" align="center" src="assets/twitter.png"></img>
 </a>
 <a href="https://pandafoss.github.io">
-  <img hspace="10" vspace="10" align="center" src="assets/web.png" /></img>
+  <img hspace="10" vspace="10" align="center" src="assets/web.png"></img>
 </a>
 <a href="mailto:maxi.fg13@gmail.com">
-  <img hspace="10" vspace="10" align="center" src="assets/mail.png" /></img>
+  <img hspace="10" vspace="10" align="center" src="assets/mail.png"></img>
 </a>
 </p>
 
@@ -36,5 +42,11 @@ ___
 
 <p align="left"><img src="assets/apoyame.png" height="35px"></img></p>
 
-<noscript><a href="https://liberapay.com/PandaFoss/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
+<p align="center">
+<a href="https://liberapay.com/PandaFoss/donate">
+  <img hspace="10" vspace="10" align="center" src="assets/liberapay.png" height="25px"></img>
+</a>
+<a href="https://cafecito.app/pandafoss">
+  <img hspace="10" vspace="10" align="center" src="assets/cafecito.png" height="25px"></img>
+</a>
+</p>
