@@ -2,7 +2,15 @@
 
 ### Hola! 👋
 
-Mi nombre es Max, soy developer autodidacta y estudiante de Ingeniería en Computación. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
+Mi nombre es Max, soy developer autodidacta, intento de SysAdmin y estudiante de Ingeniería en Computación. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
+
+Además...
+
+- 🧠 Me gusta aprender nuevos lenguajes de programación, generalmente para scripting (como Bash o Perl) o herramientas CLI (como Rust)
+- 🐧 Entusiasta de Linux y usuario de Arch Linux
+- 🗣 Me motiva compartir conocimiento (tengo un canal en [Telegram](https://t.me/ElBlogDelPanda) y una página en [Instagram](https://www.instagram.com/pandafossblog/) para tal fin)
+- 💻 Soy mantenedor de [Anarchy Installer](https://anarchyinstaller.org/), un instalador TUI de Arch Linux
+- ⚡️ Fun facts: me encantan los gatos 🐈, el mate 🧉 y mi pareja 👩🏼, por supuesto (?)
 
 ___
 
