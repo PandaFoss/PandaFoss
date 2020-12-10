@@ -12,8 +12,9 @@ ___
 
 ___
 
-### Contactame
+<p align="left"><img src="assets/contactame.png" height="35px"></img></p>
 
+<p align="center">
 <a href="https://github.com/PandaFoss">
   <img hspace="10" vspace="10" align="center" src="assets/github.png"></img>
 </a>
@@ -29,10 +30,11 @@ ___
 <a href="mailto:maxi.fg13@gmail.com">
   <img hspace="10" vspace="10" align="center" src="assets/mail.png" /></img>
 </a>
+</p>
 
 ___
 
-### Si te gusta mi trabajo, apóyame!
+<p align="left"><img src="assets/apoyame.png" height="35px"></img></p>
 
 <noscript><a href="https://liberapay.com/PandaFoss/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
