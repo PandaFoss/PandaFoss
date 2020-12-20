@@ -37,6 +37,9 @@ ___
 <a href="https://t.me/ElBlogDelPanda">
   <img hspace="10" vspace="10" align="center" src="assets/telegram.png"></img>
 </a>
+<a href="https://dev.to/pandafoss">
+  <img hspace="10" vspace="10" align="center" src="assets/dev.png"></img>
+</a>
 <a href="https://twitter.com/PandaFoss">
   <img hspace="10" vspace="10" align="center" src="assets/twitter.png"></img>
 </a>
