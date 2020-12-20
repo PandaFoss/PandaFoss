@@ -1,5 +1,7 @@
 <p align="center"><img src="assets/banner.png" height="350px"></img></p>
 
+<p href="https://github.com/PandaFoss" align="center"><img src="https://komarev.com/ghpvc/?username=PandaFoss&style=flat-square&label=Vistas+al+perfil&color=4070bf"></img></p>
+
 ### Hola! 👋
 
 Mi nombre es Max, soy developer autodidacta, intento de SysAdmin y estudiante de Ingeniería en Computación. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
