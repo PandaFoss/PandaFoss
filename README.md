@@ -18,6 +18,7 @@ ___
 
 <a href="https://github.com/PandaFoss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PandaFoss&custom_title=Mis%20estad%C3%ADsticas%20de%20GitHub:&show_icons=true&locale=es&include_all_commits=true&hide_border=true&bg_color=f1f2f4&title_color=4070bf&icon_color=4070bf&text_color=1c1f24ff" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=PandaFoss&theme=nord&no-frame=true&no-bg=true&column=3" />
 </a>
 
 ___
