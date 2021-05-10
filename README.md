@@ -8,7 +8,7 @@ Mi nombre es Max, soy developer autodidacta, intento de SysAdmin y estudiante de
 
 Además...
 
-- 🧠 Me gusta aprender nuevos lenguajes de programación, generalmente para scripting (como Bash o Perl) o herramientas CLI (como Rust)
+- 🧠 Me gusta aprender de forma autodidacta y colaborar en proyectos open source
 - 🐧 Entusiasta de Linux y usuario de Arch Linux
 - 🗣 Me motiva compartir conocimiento (tengo un canal en [Telegram](https://t.me/ElBlogDelPanda) y una página en [Instagram](https://www.instagram.com/pandafossblog/) para tal fin)
 - 💻 Soy mantenedor de [Anarchy Installer](https://anarchyinstaller.org/), un instalador TUI de Arch Linux
@@ -17,8 +17,8 @@ Además...
 ___
 
 <a href="https://github.com/PandaFoss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PandaFoss&custom_title=Mis%20estad%C3%ADsticas%20de%20GitHub:&show_icons=true&locale=es&include_all_commits=true&hide_border=true&bg_color=f1f2f4&title_color=4070bf&icon_color=4070bf&text_color=1c1f24ff" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=PandaFoss&theme=nord&no-frame=true&no-bg=true&column=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PandaFoss&custom_title=Mis%20estad%C3%ADsticas%20de%20GitHub:&show_icons=true&locale=es&include_all_commits=true&hide_border=true&bg_color=f1f2f4&title_color=4070bf&icon_color=4070bf&text_color=1c1f24ff" width="49%" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PandaFoss&hide_border=true&fire=4070BF&ring=4070BF&currStreakLabel=4070BF&background=F1F2F4&sideLabels=1C1F24&currStreakNum=1C1F24&stroke=636E80&sideNums=1C1F24&dates=636E80&border=636E80" width="49%" />
 </a>
 
 ___
