@@ -2,16 +2,18 @@
 
 <p href="https://github.com/PandaFoss" align="center"><img src="https://komarev.com/ghpvc/?username=PandaFoss&style=flat-square&label=Vistas+al+perfil&color=4070bf"></img></p>
 
+[🇺🇸 Read in english](README_EN.md)
+
 ### Hola! 👋
 
-Mi nombre es Max, soy developer autodidacta, intento de SysAdmin y estudiante de Ingeniería en Computación. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
+Mi nombre es Max, soy SysAdmin Jr. en formación, developer autodidacta y estudiante de Ingeniería en Computación. Llevo prácticamente la mitad de mi vida utilizando GNU/Linux en el día a día. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
 
 Además...
 
 - 🧠 Me gusta aprender de forma autodidacta y colaborar en proyectos open source
 - 🐧 Entusiasta de Linux y usuario de Arch Linux
 - 🗣 Me motiva compartir conocimiento (tengo un canal en [Telegram](https://t.me/ElBlogDelPanda) y una página en [Instagram](https://www.instagram.com/pandafossblog/) para tal fin)
-- 💻 Soy mantenedor de [Anarchy Installer](https://anarchyinstaller.org/), un instalador TUI de Arch Linux
+- 💻 Soy mantenedor de [Anarchy Installer](https://anarchyinstaller.org/), un instalador TUI de Arch Linux escrito en Bash
 - ⚡️ Fun facts: me encantan los gatos 🐈, el mate 🧉 y mi pareja 👩🏼, por supuesto (?)
 
 ___
