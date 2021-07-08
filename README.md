@@ -20,6 +20,7 @@ ___
 
 ### Artículos
 <!-- BLOG-POST-LIST:START -->
+- [Seguridad informática para simples mortales](https://pandafoss.github.io/seguridad-informatica-para-simples-mortales/)
 <!-- BLOG-POST-LIST:END -->
 
 ___
