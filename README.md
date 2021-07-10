@@ -20,6 +20,7 @@ ___
 
 ### Artículos
 <!-- BLOG-POST-LIST:START -->
+- [Vaultwarden en Raspberry Pi 3](https://pandafoss.github.io/vaultwarden-en-raspberry-pi-3/)
 - [Seguridad informática para simples mortales](https://pandafoss.github.io/seguridad-informatica-para-simples-mortales/)
 <!-- BLOG-POST-LIST:END -->
 
