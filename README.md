@@ -6,7 +6,7 @@
 
 ### Hola! 👋
 
-Mi nombre es Max, soy SysAdmin Jr. en formación, developer autodidacta y estudiante de Ingeniería en Computación. Llevo prácticamente la mitad de mi vida utilizando GNU/Linux en el día a día. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
+Mi nombre es Max, soy Cloud Engineer, developer autodidacta y estudiante de Ingeniería en Computación. Llevo prácticamente la mitad de mi vida utilizando GNU/Linux en el día a día. Me apasiona el universo del software libre y de código abierto, crear y aportar en proyectos que sean útiles para la comunidad.
 
 Además...
 
