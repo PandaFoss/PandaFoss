@@ -6,7 +6,7 @@
 
 ### Hi! 👋
 
-My name is Max, I'm a SysAdmin Jr. in training, a self-taught developer and a Computer Engineering student. I've been using GNU/Linux on a daily basis for almost half of my life. I'm passionate about the universe of free and open source software, creating and contributing to projects that are useful for the community.
+My name is Max, I'm a Cloud Engineer, a self-taught developer and a Computer Engineering student. I've been using GNU/Linux on a daily basis for almost half of my life. I'm passionate about the universe of free and open source software, creating and contributing to projects that are useful for the community.
 
 Additionally...
 
